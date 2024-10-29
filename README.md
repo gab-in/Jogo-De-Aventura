@@ -1,0 +1,3 @@
+SKYRIM 2 - As Aventuras de NatiGhostKiller é um jogo RPG de texto, inspirado por Akalabeth: World of Doom e AI Dungeon. O jogo foi um projeto acadêmico desenvolvido em conjunto com outro colega dentro da UTFPR.
+
+Eu não possuo os direitos autorais do nome "SKYRIM" em nenhuma forma ou meio, apenas utilizei por diversão para um projeto pessoal. Não houve nenhum financiamento, nem forma de arrecadação de dinheiro antes, depois ou durante o desenvolvimento.
